@@ -31,7 +31,9 @@ Please enter how many keys to generate:
 Output:
 
 Key [1]: RTYU-4921-PLKM-#1832
+
 Key [2]: QWER-5490-ASDF-#7719
+
 Key [3]: ZXCV-0331-UIOP-#4020
 
 
